@@ -1,0 +1,3 @@
+[submodule "Plugins/URedis"]
+	path = Plugins/URedis
+	url = git@github.com:Galeontz/URedis.git
